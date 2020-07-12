@@ -8,7 +8,7 @@ Basically we are capturing live feed of the object and breaking it into frames a
 
 ***
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdlpng.com%2Fpng%2F5450920&psig=AOvVaw3jIdzWpMF3HfgOUJ2vkwpn&ust=1594652453862000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj5v9_9x-oCFQAAAAAdAAAAABAJ">
+<img src="C:\Users\KIIT\Desktop\HTML Practices\Calender\harry.jpeg">
 
 ***
 > Connect with me on social media 📲 :-
