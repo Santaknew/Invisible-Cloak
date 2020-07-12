@@ -8,13 +8,13 @@ Basically we are capturing live feed of the object and breaking it into frames a
 
 ***
 
-![]{https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F91620173655900934%2F&psig=AOvVaw1Hwq9_Rra9Y3RuSHeJrf3H&ust=1594651851219000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDU38f7x-oCFQAAAAAdAAAAABAI}
+<img src="">
 
 ***
 > Connect with me on social media 📲 :-
-1. [Linkedin]{https://www.linkedin.com/in/santanu-biswas-1482591a7/}
-2. [Instagram]{https://www.instagram.com/_.santanubiswas._/}
-3. [Facebook]{https://www.facebook.com/Neil7rockzz/}
+1. <a href="https://www.linkedin.com/in/santanu-biswas-1482591a7/">LinkedIn</a>
+2. <a href="https://www.instagram.com/_.santanubiswas._/">LinkedIn</a>
+3. <a href="https://www.linkedin.com/in/santanu-biswas-1482591a7/https://www.facebook.com/Neil7rockzz/">LinkedIn</a>
 
 ***
 Give a star 🌟 if you like it.
