@@ -8,7 +8,8 @@ Basically we are capturing live feed of the object and breaking it into frames a
 
 ***
 
-<img src="C:\Users\KIIT\Desktop\HTML Practices\Calender\harry.jpeg">
+![harry](https://user-images.githubusercontent.com/64271130/87249950-b2549600-c47f-11ea-8f2e-db15ae751e76.jpeg)
+
 
 ***
 > Connect with me on social media 📲 :-
